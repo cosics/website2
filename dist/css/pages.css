@@ -1,0 +1,48 @@
+.pimg1-1 {
+  background-image: url("../img/unu.jpg");
+  min-height: 100%;
+}
+
+.pimg1-2 {
+  background-image: url("../img/doi.jpg");
+  min-height: 100%;
+}
+
+.pimg1-3 {
+  background-image: url("../img/trei.jpg");
+  min-height: 100%;
+}
+
+.pimg1-4 {
+  background-image: url("../img/patru.jpg");
+  min-height: 100%;
+}
+
+.pimg1-5 {
+  background-image: url("../img/cinci.png");
+  min-height: 100%;
+}
+
+.pimg1-6 {
+  background-image: url("../img/sase.jpg");
+  min-height: 100%;
+}
+
+.pimg1-7 {
+  background-image: url("../img/sapte.jpg");
+  min-height: 100%;
+}
+.pimg1-1,
+.pimg1-2,
+.pimg1-3,
+.pimg1-4,
+.pimg1-5,
+.pimg1-6,
+.pimg1-7 {
+  position: relative;
+  opacity: 0.7;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
